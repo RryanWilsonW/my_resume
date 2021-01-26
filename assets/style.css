@@ -1,0 +1,93 @@
+* {
+    padding: 10px;
+    background-color: lightgray;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1 {
+    font-size: 48px;
+    border-top: 5px blue solid;
+    border-bottom: 5px blue solid;
+    text-align: center;
+    border-radius: 50%;
+}
+
+h2 {
+    text-align: center;
+    font-size: 24px;
+    border-bottom: darkgray 5px solid;
+    border-top: darkgray 5px solid;
+    border-radius: 50%;
+}
+
+h3 {
+    text-align: center;
+    font-size: 20px;
+    line-height: 24px;
+}
+
+ul {
+    list-style: none;
+}
+
+.contact {
+    float: left;
+    list-style: none;
+    font-size: 20px;
+    line-height: 24px;
+}
+
+.contact a {
+    color: blue;
+    text-decoration: underline;
+}
+
+.objective {
+    margin-top: 12px;
+    font-size: 20px;
+    line-height: 36px;
+}
+
+.skills {
+    font-size: 22px;
+    text-align: center;
+}
+
+.edgucation {
+    text-align: center;
+}
+.experience {
+    font-size: 20px;
+    border: darkgray solid 5px;
+    border-radius: 15px;
+    line-height: 32px;
+}
+
+.experience h3{
+    padding-bottom: 20px ;
+    margin-right: 20px;
+    font-size: 32px;
+    border-bottom: 5px darkgray solid;
+    border-radius: 50%;    
+}
+
+.experience p {
+    line-height: 30px;
+}
+
+.experience a {
+    color: blue;
+    text-decoration: underline;
+}
+
+.float-left {
+    float: left;
+}
+
+.float-right {
+    float: right;
+}
+
+footer {
+    padding
+}
